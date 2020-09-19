@@ -1,0 +1,4 @@
+com\onlinetest\oauthauthorization\OauthauthorizationApplication.class
+com\onlinetest\oauthauthorization\controller\UserController.class
+com\onlinetest\oauthauthorization\config\AuthServerConfig.class
+com\onlinetest\oauthauthorization\config\SecurityConfiguration.class
